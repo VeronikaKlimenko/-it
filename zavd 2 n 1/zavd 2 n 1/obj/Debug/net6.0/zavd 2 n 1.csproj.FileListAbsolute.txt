@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 2 n 1\zavd 2 n 1\bin\Debug\net6.0\zavd 2 n 1.exe
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 2 n 1\zavd 2 n 1\bin\Debug\net6.0\zavd 2 n 1.deps.json
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 2 n 1\zavd 2 n 1\bin\Debug\net6.0\zavd 2 n 1.runtimeconfig.json
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 2 n 1\zavd 2 n 1\bin\Debug\net6.0\zavd 2 n 1.dll
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 2 n 1\zavd 2 n 1\bin\Debug\net6.0\zavd 2 n 1.pdb
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 2 n 1\zavd 2 n 1\obj\Debug\net6.0\zavd 2 n 1.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 2 n 1\zavd 2 n 1\obj\Debug\net6.0\zavd 2 n 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 2 n 1\zavd 2 n 1\obj\Debug\net6.0\zavd 2 n 1.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 2 n 1\zavd 2 n 1\obj\Debug\net6.0\zavd 2 n 1.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 2 n 1\zavd 2 n 1\obj\Debug\net6.0\zavd 2 n 1.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 2 n 1\zavd 2 n 1\obj\Debug\net6.0\zavd 2 n 1.dll
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 2 n 1\zavd 2 n 1\obj\Debug\net6.0\refint\zavd 2 n 1.dll
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 2 n 1\zavd 2 n 1\obj\Debug\net6.0\zavd 2 n 1.pdb
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 2 n 1\zavd 2 n 1\obj\Debug\net6.0\zavd 2 n 1.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 2 n 1\zavd 2 n 1\obj\Debug\net6.0\ref\zavd 2 n 1.dll

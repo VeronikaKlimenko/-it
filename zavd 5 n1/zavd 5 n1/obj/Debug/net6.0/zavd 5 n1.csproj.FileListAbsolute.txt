@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 5 n1\zavd 5 n1\bin\Debug\net6.0\zavd 5 n1.exe
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 5 n1\zavd 5 n1\bin\Debug\net6.0\zavd 5 n1.deps.json
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 5 n1\zavd 5 n1\bin\Debug\net6.0\zavd 5 n1.runtimeconfig.json
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 5 n1\zavd 5 n1\bin\Debug\net6.0\zavd 5 n1.dll
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 5 n1\zavd 5 n1\bin\Debug\net6.0\zavd 5 n1.pdb
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 5 n1\zavd 5 n1\obj\Debug\net6.0\zavd 5 n1.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 5 n1\zavd 5 n1\obj\Debug\net6.0\zavd 5 n1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 5 n1\zavd 5 n1\obj\Debug\net6.0\zavd 5 n1.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 5 n1\zavd 5 n1\obj\Debug\net6.0\zavd 5 n1.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 5 n1\zavd 5 n1\obj\Debug\net6.0\zavd 5 n1.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 5 n1\zavd 5 n1\obj\Debug\net6.0\zavd 5 n1.dll
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 5 n1\zavd 5 n1\obj\Debug\net6.0\refint\zavd 5 n1.dll
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 5 n1\zavd 5 n1\obj\Debug\net6.0\zavd 5 n1.pdb
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 5 n1\zavd 5 n1\obj\Debug\net6.0\zavd 5 n1.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 5 n1\zavd 5 n1\obj\Debug\net6.0\ref\zavd 5 n1.dll

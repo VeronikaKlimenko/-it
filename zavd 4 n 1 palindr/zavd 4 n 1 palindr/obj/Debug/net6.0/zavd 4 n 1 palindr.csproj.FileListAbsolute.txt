@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 4 n 1 palindr\zavd 4 n 1 palindr\bin\Debug\net6.0\zavd 4 n 1 palindr.exe
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 4 n 1 palindr\zavd 4 n 1 palindr\bin\Debug\net6.0\zavd 4 n 1 palindr.deps.json
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 4 n 1 palindr\zavd 4 n 1 palindr\bin\Debug\net6.0\zavd 4 n 1 palindr.runtimeconfig.json
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 4 n 1 palindr\zavd 4 n 1 palindr\bin\Debug\net6.0\zavd 4 n 1 palindr.dll
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 4 n 1 palindr\zavd 4 n 1 palindr\bin\Debug\net6.0\zavd 4 n 1 palindr.pdb
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 4 n 1 palindr\zavd 4 n 1 palindr\obj\Debug\net6.0\zavd 4 n 1 palindr.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 4 n 1 palindr\zavd 4 n 1 palindr\obj\Debug\net6.0\zavd 4 n 1 palindr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 4 n 1 palindr\zavd 4 n 1 palindr\obj\Debug\net6.0\zavd 4 n 1 palindr.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 4 n 1 palindr\zavd 4 n 1 palindr\obj\Debug\net6.0\zavd 4 n 1 palindr.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 4 n 1 palindr\zavd 4 n 1 palindr\obj\Debug\net6.0\zavd 4 n 1 palindr.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 4 n 1 palindr\zavd 4 n 1 palindr\obj\Debug\net6.0\zavd 4 n 1 palindr.dll
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 4 n 1 palindr\zavd 4 n 1 palindr\obj\Debug\net6.0\refint\zavd 4 n 1 palindr.dll
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 4 n 1 palindr\zavd 4 n 1 palindr\obj\Debug\net6.0\zavd 4 n 1 palindr.pdb
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 4 n 1 palindr\zavd 4 n 1 palindr\obj\Debug\net6.0\zavd 4 n 1 palindr.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\univer\it ptojects\zavd 4 n 1 palindr\zavd 4 n 1 palindr\obj\Debug\net6.0\ref\zavd 4 n 1 palindr.dll
